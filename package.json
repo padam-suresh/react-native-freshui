@@ -1,0 +1,27 @@
+{
+  "name": "react-native-freshui",
+  "version": "1.0.0",
+  "description": "A fresh and modern UI component library for React Native applications. Easily integrate beautifully designed buttons, cards, and text inputs to enhance the user experience of your app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/padam-suresh/react-native-freshui"
+  },
+  "keywords": [
+    "fresh-ui",
+    "react-native-card",
+    "cards",
+    "react-native-ui",
+    "react-native",
+    "react-native-custom-ui"
+  ],
+  "author": "Padam Suresh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/padam-suresh/react-native-freshui/issues"
+  },
+  "homepage": "https://github.com/padam-suresh/react-native-freshui#readme"
+}
